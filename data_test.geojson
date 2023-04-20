@@ -18,7 +18,7 @@
         "typ_znacky": "R",
         "sposob_vyhradenia": "TZP",
         "ecv": "BL554DE",
-        "fotky": ["https://podnety.petrzalka.sk/api/images/1/EfeeAXUbVNlHj0chzLZTwxROcuHocpv3qeKiBeDY.jpg","https://podnety.petrzalka.sk/api/images/3/d8DJVcXppPfgIiy2qNDh17TUIOVPxJGNZraevAI3.jpg"]
+        "fotky": "https://podnety.petrzalka.sk/api/images/1/EfeeAXUbVNlHj0chzLZTwxROcuHocpv3qeKiBeDY.jpg,https://podnety.petrzalka.sk/api/images/3/d8DJVcXppPfgIiy2qNDh17TUIOVPxJGNZraevAI3.jpg"
       }
     },
     {
@@ -38,7 +38,7 @@
         "typ_znacky": "R",
         "sposob_vyhradenia": "TZP",
         "ecv": "BL694NX",
-        "fotky": []
+        "fotky": ""
       }
     }
       ]
