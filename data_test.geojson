@@ -13,11 +13,10 @@
       },
       "properties": {
         "OBJECTID": 1,
+        "ecv": "BL554DE",
         "lokalita": "Lúky 8",
-        "cislo_boxu": 90,
         "typ_znacky": "R",
         "sposob_vyhradenia": "TZP",
-        "ecv": "BL554DE",
         "fotky": "https://podnety.petrzalka.sk/api/images/1/EfeeAXUbVNlHj0chzLZTwxROcuHocpv3qeKiBeDY.jpg,https://podnety.petrzalka.sk/api/images/3/d8DJVcXppPfgIiy2qNDh17TUIOVPxJGNZraevAI3.jpg"
       }
     },
@@ -33,11 +32,10 @@
       },
       "properties": {
         "OBJECTID": 200,
+        "ecv": "BL694NX",
         "lokalita": "Lúky 5",
-        "cislo_boxu": 4,
         "typ_znacky": "R",
         "sposob_vyhradenia": "TZP",
-        "ecv": "BL694NX",
         "fotky": ""
       }
     }
